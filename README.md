@@ -1,2 +1,2 @@
 # Black-RAT
-Remote Administration Tool
+.Remote Administration Tool
